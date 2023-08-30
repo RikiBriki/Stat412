@@ -1,0 +1,9 @@
+Bigggest false flag: when you sort by total stats, almost all above 580 are legendrary, except for low dragons and megas where their non mega version is not legendrary. , only dragon with 600 stats that is legendrary is latias , informations we have about him are he is psychic and 3rd generation 
+in 3rd generation we also have slaking with 670 stats , normal, no 2nd type, not being legendrary,
+
+So it looks like we can try an overfit model or a non overfit one . we have to impute missing values also. , We could also literally write a hand algorithm for this task, but tasks wants ML so be it . 
+re observe absolute deviation
+normal pokemon with no 2nd speciality 
+normals also can be not legendrary
+imputation in test is very important . 
+Rayquaza mega rayquaza which has 780 stats , is also legendrary, probably non mega rayquaza is also legendrary 
